@@ -12,7 +12,7 @@ Interpret common Excel visualizations
 Planning Your Schedule
 
 ### Purpose
-Analyzing fundraising goals that were hit in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset we visualized campaign outcomes based on their launch dates and their funding goals.
+Analyzing fundraising goals that were hit in a short amount of time. Now, we want to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset we visualized campaign outcomes based on their launch dates and their funding goals.
 
 ## Analysis and Challenges
 
